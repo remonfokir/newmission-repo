@@ -1,0 +1,42 @@
+body{
+        font-family: 'Poppins', sans-serif;
+}
+.onefh1 {
+        border-left:2px solid red;
+        font-size: 2em;
+        
+}
+.link-button{text-decoration: none;
+        background-color: orange;
+        padding: 10px 40px;
+
+}
+.sojatext{
+    text-align: justify;
+}
+.mcolor{ color: orange;}
+section { 
+        display: flex;
+        
+}
+.onepic{
+        width: 50%;
+        margin-left: 40px;
+}
+.onepic img{
+        width:60%;
+}
+.twomission {
+        text-align: center;
+}
+.twospan2022 {
+        color:orange;
+}
+
+.divimg{ 
+        display: flex;
+        
+}
+.fristimg{
+        width: 40%;
+}
