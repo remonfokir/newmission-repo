@@ -1,0 +1,39 @@
+.s1d1h {
+        color: orange;
+}
+.s1d1 {
+        border-left: 3px solid;
+        border-image: linear-gradient(orange,red);
+        border-image-slice: 1;
+}
+
+.s1d1p {
+        text-align: justify;
+       
+}
+
+.s1d1margin{
+         margin-right: 60px;
+         
+}
+
+
+.s1d1s {
+        color: wheat;
+        background-color: tomato;
+        border-radius: 5px;
+        padding: 5px;
+        
+}
+
+.s1d2 img{
+        height: 250px;
+        width: 200px;
+        margin-top: 30px;
+        margin-right: 40px;
+        
+}
+
+.s1 {
+        display: flex;
+}
